@@ -7,3 +7,6 @@
 html 코드 작성, css 와 js는 Bootstrap을 활용
 입력 값에 따른 여러 결과 값 반환 및 데이터 분석용 대시보드 개발
 ```
+
+#### Flask 서버 가동
+![플라스크 가동](https://user-images.githubusercontent.com/70729822/165368616-a06b4554-93f1-41cf-9864-0ef60df8442d.gif)
