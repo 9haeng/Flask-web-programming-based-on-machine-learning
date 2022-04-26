@@ -17,9 +17,13 @@ html 코드 작성, css 와 js는 Bootstrap을 활용
 #### 숙소 가격 예측을 위한 선택지
 ![narrow1](https://user-images.githubusercontent.com/70729822/165369060-7f737afe-8e45-4b9b-98c1-7208d06c0fb0.png)
 
+![선택지](https://user-images.githubusercontent.com/70729822/165369674-74311a12-436f-4401-aad1-611163358f91.png)
+
 #### 숙소 가격 예측 성공시
 ![가격 예측 성공](https://user-images.githubusercontent.com/70729822/165369134-81c22701-66ee-46b3-8707-84c2a0f3df1d.gif)
+![result](https://user-images.githubusercontent.com/70729822/165369755-13510ff5-9c84-4ab6-bfe7-7d89ee5da242.png)
 
 #### 숙소 가격 예측 실패시
 ![가격 예측 실패](https://user-images.githubusercontent.com/70729822/165369174-65e51d2c-3098-4ec3-ac27-d64efddcca05.gif)
+![result2](https://user-images.githubusercontent.com/70729822/165369768-0733f35f-4741-41eb-994f-607d8d03bc23.png)
 
