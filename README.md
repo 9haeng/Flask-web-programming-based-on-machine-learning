@@ -1,6 +1,6 @@
 # Flask web programming based on machine learning
 
-지난 NYC 에어비엔비 숙소 가격 예측 머신러닝 프로젝트를 이어나가, Flask를 활용하여 숙소 가격 예측 웹 서비스를 구현했습니다.
+지난 NYC 에어비엔비 숙소 가격 예측 [머신러닝 프로젝트](https://github.com/9haeng/NYC-Airbnb-price-prediction)를 이어나가, Flask를 활용하여 숙소 가격 예측 웹 서비스를 구현했습니다.
 
 ```
 기존의 데이터셋을 Flask에 활용하기 위해 가공
