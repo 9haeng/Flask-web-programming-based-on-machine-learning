@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin-top: 20rem;
+}
+.footer{
+    margin-top: 20rem;
+}
+
+a {
+    background-image: none;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    margin: 65px auto 0;
+    color: #111111 !important;
+    background-color: #f7f39a !important;
+    display: table;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 0;
+    align-self: flex-start;
+}
